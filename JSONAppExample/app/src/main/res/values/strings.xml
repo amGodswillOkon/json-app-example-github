@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Json App Example</string>
+    <string name="error_loading_text">Error loading text</string>
+    <string name="search_book"> </string>
+    <string name="no_such_text">Result not found, try another search</string>
+    <string name="search_api_book">Search Google books API by clicking the search icon</string>
+    <string name="searchIntent">searchIntent</string>
+</resources>
