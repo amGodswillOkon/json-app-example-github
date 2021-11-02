@@ -20,11 +20,11 @@ public class ApiClass {
     }
 
     /*
-    * static class responsiblee for managing basic URL connectiom and JSON file*/
+    * static class responsible for managing basic URL connectiom and JSON file*/
     public static final String BASIC_URL = "https://www.googleapis.com/books/v1/volumes";
     public static final String URI_KEY = "q";
     public static final String KEY = "key";
-    public static final String API_KEY = "TODO //input your API KEY HERE";
+    public static final String API_KEY = "TODO ...input your API KEY HERE";
 
     public static URL buildURL(String URLString) {
 
